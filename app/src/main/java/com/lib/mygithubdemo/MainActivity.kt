@@ -9,5 +9,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.e("test one","this is what new branch")
+        Log.e("Sec branch code push","today")
     }
 }
